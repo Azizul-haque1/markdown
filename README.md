@@ -23,8 +23,7 @@ __this is an__
 
 <del>this </del>
 ~~this~~
-### Single line code
-`This is lin`  
+### Single line code `This is lin`  
 `<h1> Bangladesh</h1>`
 </br><br>
 ### Multiple line code
