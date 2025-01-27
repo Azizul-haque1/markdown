@@ -37,7 +37,7 @@ __this is an__
 <body></body>
 </html>
 ```
-# thi is ```css
+ ```css
 head{
     background-color: green
 }
