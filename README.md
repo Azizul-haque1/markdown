@@ -47,7 +47,7 @@ console.log('hello')
 ```
 ## Name
 
-``` hellow
+```
 Azizul Hauqe
 ```
 1. Item1
